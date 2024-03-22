@@ -6,3 +6,4 @@ The way i have approached the project is as follows:-
 The issues faced by me while completing the project are as follows:-
 1. The conda virtualenv was not working so I another virtualenv.
 2. I have expired all my openAI credentials so I am not able to make an api call to openAI however this problem can be tackeled at an organisation level or b using other models I have also mentioned how the code would look with openAI api asa comment.
+3. Heroku login issue hence no deployment I request you to please clone the app and check for yourself
